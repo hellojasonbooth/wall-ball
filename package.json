@@ -1,0 +1,31 @@
+{
+  "name": "title-pages",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hellojasonbooth/title-pages.git"
+  },
+  "author": "jason booth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hellojasonbooth/title-pages/issues"
+  },
+  "homepage": "https://github.com/hellojasonbooth/title-pages#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "gulp": "^3.9.1",
+    "autoprefixer": "^9.7.3",
+    "gulp-clean-css": "^4.2.0",
+    "gulp-imagemin": "^6.1.1",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.5",
+    "node-sass": "^4.12.0"
+  }
+}
+
+
